@@ -1,0 +1,14 @@
+*****************************
+*       BOARDING PASS       *
+*****************************
+Flight Number: MS4908
+From: Timisoara
+To: London
+Departure Time: 12:00
+Seat: 35E
+Passenger Name: Andrei
+Age: 0
+Gender: 3
+*****************************************
+*  GATE CLOSES 15 MIN BEFORE DEPARTURE  *
+*****************************************
