@@ -1,9 +1,0 @@
-1:1
-3:3
-5:5
-asd:ad
-asd:asd
-Andrei:1
-Popa:1
-mlem:mlem
-andrei:12
